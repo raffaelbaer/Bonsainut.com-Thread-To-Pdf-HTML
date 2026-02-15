@@ -26,5 +26,3 @@ Images are supplied in their own subfolder => /images
                 - On the html file you have the benefit of beeing able to click on images you want to view enlarged, they will load from the local /images file folder inside the Threads folder in full resolution.
 
 7. run the main.py file, and let the magic happen.
-
-In the output folder you can see a example for a Thread I've created with it, you can download it if you want and see the results for yourself!
